@@ -1,3 +1,5 @@
+# This repository is the fork from the source: https://github.com/DA-southampton/NLP_ability
+
 # 背景介绍
 
 NLP日常工作经验和论文解析，包含：预训练模型，文本表征，文本相似度，文本分类，多模态，知识蒸馏，词向量。
